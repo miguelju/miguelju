@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Miguel @miguelju
-- 👀 I’m interested in GO, C# , C++ ,Python , AI, DevOps, microcontrollers and Cloud Work Flows (DevOps in Azure, AWS and GCP).  
+- 👋 Hi, I’m Miguel [@miguelju](https://migueljackson.dev).
 - 🌱 I’m currently learning about using Agentic Coding Assistant
+- 👀 I’m interested in GO, C# , C++ ,Python , AI, DevOps, microcontrollers and Cloud Work Flows (DevOps in Azure, AWS and GCP).
 - 💞️ I’m looking to collaborate on any interesing project for automation
 - 📫 You can reach me via email:admin@migueljackson.dev 
 
