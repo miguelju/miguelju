@@ -34,8 +34,6 @@ for agentic software development.
 - **[vle](https://github.com/miguelju/vle)** — a Rust + Python thermodynamics
   engine grown from our 1999 VB6 thesis, with notebooks and bindings for Swift,
   Kotlin, and WebAssembly.
-- **[stages-thermo](https://github.com/miguelju/stages-thermo)** — a staged-
-  separation learning library and column solver that opens the black box.
 - **[vle-mcp](https://github.com/miguelju/vle-mcp)** — a typed MCP gateway where
   AI explains the question and tested scientific software supplies the answer.
 - **[Simple SSH](https://github.com/miguelju/simplessh_ios)** — a native SwiftUI
